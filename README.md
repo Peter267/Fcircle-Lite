@@ -1,4 +1,7 @@
-<div align="center">
+Forked from [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite)
+
+---
+<div ali)gn="center">
   <img src="./static/favicon.ico" width="200" alt="fclite">
 
   [前端展示](https://fc.liushen.fun) | [详细文档](https://blog.liushen.fun/posts/4dc716ec/)
